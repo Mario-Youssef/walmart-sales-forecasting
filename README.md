@@ -23,7 +23,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, scikit-learn, tslearn
 
 ## 📁 Project Files
 - `Final_Project_Code.ipynb`: Jupyter notebook with full workflow
-- `train.csv`, `features.csv`, `stores.csv`: Original Walmart dataset (optional)
+- `train.csv`, `features.csv`, `stores.csv`: Original Walmart dataset
 
 ## 📌 Summary
 The LSTM model outperformed traditional SARIMA and SARIMAX in terms of forecasting accuracy.  
