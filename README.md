@@ -28,7 +28,3 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, scikit-learn, tslearn
 ## 📌 Summary
 The LSTM model outperformed traditional SARIMA and SARIMAX in terms of forecasting accuracy.  
 Clustering provided insight into department similarity across time.
-
----
-
-> 🔗 Created by Mario Youssef – 2025
